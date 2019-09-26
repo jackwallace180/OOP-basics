@@ -2,19 +2,23 @@
 
 this is a class with the basics of 42
 
-##this class will cover
+## this class will cover
 
  - 4 pillars
     - abstaction
     - encapulation
     - inheritance
     - best of practices of organisation
-  ##definitions
-  ###class()
+    
+  ## definitions
+  
+  ### class()
   classes are a collection of methods, they are the cookie cutters for object/instances of a class
-  ###instance
+  
+  ### instance
   it is a specific example of the class. it is NOT the class, they are unique
-  ###self
+  
+  ### self
   self refers to the instance on which the method is being called
   
   ###methods
