@@ -20,7 +20,7 @@ class Animal():
     def potty(self):
         return ' O_O ... HUNNNN o_O ....HUUUHNNN!! o_o SPLASH! -.- :D'
     def heart(self):
-        return ' BBMMBBMMM BMMMBMMMM BMMMBMMMM'
+        return 'BBMMBBMMM BMMMBMMMM BMMMBMMMM'
 
 #create an object of class animal
   # AKA initialising an object
